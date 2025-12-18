@@ -1,0 +1,5 @@
+{
+  "name": "SCC Collaborative Budgeting Tool",
+  "description": "A centralized financial planning application for managing OpEx/CapEx budgets, scenarios, and consolidations for Centre and Regional Offices.",
+  "requestFramePermissions": []
+}
